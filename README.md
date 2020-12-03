@@ -42,8 +42,7 @@ Congrats! You can now use the iFeel app!
 
 * Anchit Rao
 * Grant Garrett-Grossman
-
-  * Anna Tan
-  * Kshitij Sharma
-  * Neil Reddy
-  * Nirmal Prakash - *Project Manager*
+* Anna Tan
+* Kshitij Sharma
+* Neil Reddy
+* Nirmal Prakash - *Project Manager*
